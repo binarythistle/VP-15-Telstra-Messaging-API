@@ -1,0 +1,18 @@
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-10 Base Project\bin\Debug\VP-10 Base Project.exe.config
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-10 Base Project\bin\Debug\VP-10 Base Project.exe
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-10 Base Project\bin\Debug\VP-10 Base Project.pdb
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-10 Base Project\obj\Debug\VP-15 Base Project.csprojResolveAssemblyReference.cache
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-10 Base Project\obj\Debug\VP_15_Base_Project.Form1.resources
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-10 Base Project\obj\Debug\VP_10_Base_Project.Properties.Resources.resources
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-10 Base Project\obj\Debug\VP-15 Base Project.csproj.GenerateResource.Cache
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-10 Base Project\obj\Debug\VP-10 Base Project.exe
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-10 Base Project\obj\Debug\VP-10 Base Project.pdb
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-15 Base Project\bin\Debug\VP-10 Base Project.exe.config
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-15 Base Project\bin\Debug\VP-10 Base Project.exe
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-15 Base Project\bin\Debug\VP-10 Base Project.pdb
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-15 Base Project\obj\Debug\VP-15 Base Project.csprojResolveAssemblyReference.cache
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-15 Base Project\obj\Debug\VP_15_Base_Project.Form1.resources
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-15 Base Project\obj\Debug\VP_10_Base_Project.Properties.Resources.resources
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-15 Base Project\obj\Debug\VP-15 Base Project.csproj.GenerateResource.Cache
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-15 Base Project\obj\Debug\VP-10 Base Project.exe
+C:\Users\lesja\OneDrive\Documents\Binarythistle Videos\VP-15 Hands On - Telstra Messaging API\Visual Studio Projects\VP-15 Telstra Messagin API\VP-15 Base Project\obj\Debug\VP-10 Base Project.pdb
